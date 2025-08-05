@@ -1,0 +1,14 @@
+# Ignore build output
+/out/
+*.class
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS/System files
+.DS_Store
+Thumbs.db

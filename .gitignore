@@ -1,0 +1,7 @@
+﻿*.class
+*.iml
+.idea/
+out/
+misc.xml
+modules.xml
+vcs.xml
