@@ -17,6 +17,19 @@ A console-based system to:
 - Display student records
 - Search by name or ID
 
----
+### 📌 Day03 - Library Management System
+A console-based mini library app built using **Object-Oriented Programming (OOP)** concepts.
 
-## 📁 Folder Structure
+#### 💡 Features:
+- Add books and users to the system
+- Issue books to users
+- Return issued books
+- View current book status (available / issued)
+
+#### 🧱 Key Concepts Used:
+- Classes & Objects
+- Encapsulation
+- Method overriding
+- Collections (ArrayList)
+  
+---
